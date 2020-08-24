@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 #eoinpinaqui {
   poisition: Dublin,
   background: CS Student,
+  height: 185cm,
+  bottoms: up
 }
 ```
