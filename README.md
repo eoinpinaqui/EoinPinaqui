@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 
 # Hi there!
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eoinpinaqui)](https://github.com/eoinpinaqui) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoinpinaqui&hide=jupyter%20notebook)](https://github.com/eoinpinaqui)
+I'm a third year Computer Science student at Trinity College Dublin.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eoinpinaqui)](https://github.com/eoinpinaqui) 
