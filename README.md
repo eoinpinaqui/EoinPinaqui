@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # Hi there!
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eoinpinaqui)](https://github.com/eoinpinaqui) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoinpinaqui&hide=jupyter notebook)](https://github.com/eoinpinaqui)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eoinpinaqui)](https://github.com/eoinpinaqui) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoinpinaqui)](https://github.com/eoinpinaqui)
