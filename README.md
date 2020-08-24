@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there!
-I'm a third year Computer Science student at Trinity College Dublin.  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eoinpinaqui)](https://github.com/eoinpinaqui) 
+```This is working right?```
