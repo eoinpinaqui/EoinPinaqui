@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ```
 #eoinpinaqui {
   poisition: Dublin,
-  background: CS Student
+  background: CS Student,
 }
 ```
