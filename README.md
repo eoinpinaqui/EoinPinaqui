@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ```
-Programming is cool.
+while(eoin.isAlive()) {
+  eoin.eat();
+  eoin.sleep();
+  eoin.code();
+}
 ```
