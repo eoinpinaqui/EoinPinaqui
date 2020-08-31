@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ```
-while(alive) {
-  eat();
-  sleep();
-  code();
-  repeat();
+while(brian.isAlive()) {
+  notSafe = true;
+  run();
 }
 ```
