@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ```
-while(brian.isAlive()) {
-  notSafe = true;
-  run();
-}
+Programming is cool.
 ```
