@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ```
-while(eoin.isAlive()) {
-  eoin.eat();
-  eoin.sleep();
-  eoin.code();
+while(alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
 }
 ```
