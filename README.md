@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ```
-Programming is cool.
+Have you considered using a hash map?
 ```
