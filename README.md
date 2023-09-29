@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ```
-I don't know about you people, but I don't want to live in a world
-        where someone else makes the world a better place better than we do.
+We’re making the world a better place through scalable,
+        fault tolerant distributed databases with acid transactions.
 
-                - Gavin Belson
+                - That one CEO from Silicon Valley
 ```
